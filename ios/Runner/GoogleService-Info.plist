@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>987496371876-ubmrnsotpt4r1cjd87bca2dhtmjkah9d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.987496371876-ubmrnsotpt4r1cjd87bca2dhtmjkah9d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>987496371876-at0i2nb8gcmpab2qt3i61fmhh4frt02g.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbII9b-icXqPUNQN93DngzHUiyoVQxv18</string>
+	<key>GCM_SENDER_ID</key>
+	<string>987496371876</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>stucktle.firebase</string>
+	<key>PROJECT_ID</key>
+	<string>flutterfire-df932</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterfire-df932.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:987496371876:ios:9b1677b42a170154</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutterfire-df932.firebaseio.com</string>
+</dict>
+</plist>

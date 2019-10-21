@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779312081157",
+    "firebase_url": "https://fir-50cc6.firebaseio.com",
+    "project_id": "fir-50cc6",
+    "storage_bucket": "fir-50cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779312081157:android:a413c00f7cf346daed6f6c",
+        "android_client_info": {
+          "package_name": "stucktle.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779312081157-bcgu4lm782s060nsqt03m6fmjee0vgre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stucktle.firebase",
+            "certificate_hash": "0701341b7ddf17b648c950c680251ba632cf8bf7"
+          }
+        },
+        {
+          "client_id": "779312081157-1n34i048a6aa0ok2e6hdt67nk2ou9b5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZotVuLoxl8aYPqi5FU3OgAtmruD_LYms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779312081157-1n34i048a6aa0ok2e6hdt67nk2ou9b5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
